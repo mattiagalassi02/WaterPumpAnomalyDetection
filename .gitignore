@@ -1,5 +1,5 @@
 # Esclude la cartella "water pump audio for anomaly detection"
-WaterPumpAnomalyDetection/water pump audio for anomaly detection/
+water pump audio for anomaly detection/
 
 # Esclude tutti i file con estensione .h5
 *.h5
